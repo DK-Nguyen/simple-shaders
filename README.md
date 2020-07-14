@@ -1,5 +1,6 @@
 # simple-shaders
 A simple project written in GLSL pixel shaders.
+![result](./run.png)
 
 Functionalities:
 
